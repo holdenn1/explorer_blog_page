@@ -1,0 +1,75 @@
+.bodyInfoContainer {
+    max-width: 800px;
+    width: 100%;
+    height: 1741px;
+    margin: 0 auto;
+}
+
+
+.adventageImgContainer {
+    background-image: url('./../img/img_body/IMAGE.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-height: 330px;
+    height: 100%;
+
+}
+
+.descriptionTitleContainer {
+    height: 180px;
+    background-color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=============================================================================>
+/* @media screen and (max-width: 940px) {
+
+    .bodyInfoContainer {
+        width: 700px;
+    }
+
+    .adventageImgContainer {
+        height: 280px;
+    }
+}
+
+@media screen and (max-width: 760px) {
+
+    .bodyInfoContainer {
+        width: 500px;
+    }
+
+    .adventageImgContainer {
+        height: 240px;
+    }
+}
+
+@media screen and (max-width: 460px) {
+
+    .bodyInfoContainer {
+        width: 380px;
+    }
+
+    .adventageImgContainer {
+        height: 240px;
+    }
+} */
