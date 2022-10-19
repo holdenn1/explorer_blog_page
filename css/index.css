@@ -1,41 +1,45 @@
 .backgroundContainer {
     background-image: url('./../img/img_background/kamni_trava_zakat_394778_2160x3840.jpg');
-    width: 1440px;
-    height: 2080px;
     padding-top: 60px;
+    height: 2080px;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
 }
 
-.heder {
-    margin: 0px auto 60px;
-    width: 940px;
-    height: 120px;
-}
-
-.nacContainer img {
+.blockImg {
     display: block;
-    margin: 0% auto;
+    width: 176px;
+    height: 40px;
 }
 
-nav {
-    text-align: center;
-    padding-top: 52px;
+.navContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 
-nav a {
-    padding: 0 12px 14px;
-    box-sizing: border-box;
-    color: white;
+.navBar {
+    padding: 52px 0 74px;
+}
+
+.navBar a {
+    margin: 0 12px;
     text-decoration: none;
+    color: white;
+    padding-bottom: 14px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 14px;
+    letter-spacing: 1.3px;
+    text-transform: uppercase;
 }
 
-nav a:hover {
-    border-bottom: 1px solid #fff;
-}
-
-@media screen and (max-width: 1366px) {
-
-    .backgroundContainer {
-        width: 1349px;
-        height: 768px;
-    }
+.navBar a:hover {
+    border-bottom: 2px solid white;
 }
