@@ -14,3 +14,24 @@
     width: 176px;
     height: 40px;
 }
+
+.adventageImgContainer {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-height: 330px;
+    height: 100%;
+}
+
+.firstImg {
+    background-image: url('./../img/img_body/IMAGE.png');
+
+}
+
+.secondImg {
+    background-image: url('./../img/img_body/IMAGE2.png');
+}
+
+.thirdImg {
+    background-image: url('./../img/img_body/IMAGE3.png');
+}
