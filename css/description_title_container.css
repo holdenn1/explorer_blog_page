@@ -22,3 +22,28 @@
 .descriptionContainer img {
     padding-top: 12px;
 }
+
+@media screen and (max-width: 666px) {
+    .descriptionContainer {
+        padding: 26px 46px 24px 30px;
+    }
+
+    .descriptionContainer p {
+        font-size: 14px;
+    }
+
+    .descriptionContainer img {
+        padding-top: 6px;
+        width: 120px;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .descriptionContainer {
+        padding: 12px 36px 18px 24px;
+    }
+
+    .descriptionContainer p {
+        font-size: 12px;
+    }
+}

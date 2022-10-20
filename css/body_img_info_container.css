@@ -44,3 +44,11 @@
     line-height: 35px;
     color: #FFFFFF;
 }
+
+@media screen and (max-width: 666px) {
+    .descriptionUserTitle {
+        font-size: 22px;
+    }
+
+
+}

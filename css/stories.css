@@ -28,12 +28,16 @@
     background-size: cover;
     height: 190px;
     width: 300px;
-    margin: 50px 10px 0;
+
 }
 
 .storiesImgContainer {
     display: flex;
     justify-content: center;
+}
+
+.storiesImgContainer p {
+    width: 300px;
 }
 
 .storiesImgUserTitle {
@@ -42,7 +46,7 @@
 }
 
 .descrptionStories {
-    margin-top: 38px;
+    margin: 38px 0;
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 400;
@@ -71,4 +75,22 @@
 .questionStorisLink:hover {
     cursor: pointer;
     color: #703ead;
+}
+
+.imgStoriesContainer {
+    margin: 50px 10px 0;
+}
+
+@media screen and (max-width: 960px) {
+    .storiesImgContainer {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .storiesImgContainer p {
+
+        text-align: center;
+        box-sizing: border-box;
+    }
+
 }
