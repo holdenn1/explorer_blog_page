@@ -1,4 +1,24 @@
 .descriptionTitleContainer {
     height: 180px;
     background-color: white;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+
+.descriptionContainer {
+    padding: 36px 76px 44px 60px;
+
+}
+
+.descriptionContainer p {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    color: #333333;
+}
+
+.descriptionContainer img {
+    padding-top: 12px;
 }
