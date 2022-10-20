@@ -1,0 +1,74 @@
+.storiesTitle {
+    text-align: center;
+    padding-top: 85px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 40px;
+    text-align: center;
+    color: #333333;
+}
+
+.descriptionStoriesTitle {
+    text-align: center;
+    padding-top: 25px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 33px;
+    text-align: center;
+    color: #A9AFB3;
+}
+
+.storiesImg {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 190px;
+    width: 300px;
+    margin: 50px 10px 0;
+}
+
+.storiesImgContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.storiesImgUserTitle {
+    padding-top: 134px;
+    padding-left: 24px;
+}
+
+.descrptionStories {
+    margin-top: 38px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    color: #000000;
+}
+
+.questionStoris {
+    margin-top: 135px;
+    margin-bottom: 90px;
+    text-align: center;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 30px;
+    color: #333333;
+}
+
+.questionStorisLink {
+    color: #8D4FDB;
+    text-decoration: none;
+}
+
+.questionStorisLink:hover {
+    cursor: pointer;
+    color: #703ead;
+}

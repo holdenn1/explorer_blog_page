@@ -35,3 +35,15 @@
 .thirdImg {
     background-image: url('./../img/img_body/IMAGE3.png');
 }
+
+.storiesImg1 {
+    background-image: url('./../img/img_body/stories_img/IMAGE.png');
+}
+
+.storiesImg2 {
+    background-image: url('./../img/img_body/stories_img/IMAGE2.png');
+}
+
+.storiesImg3 {
+    background-image: url('./../img/img_body/stories_img/IMAGE3.png');
+}
