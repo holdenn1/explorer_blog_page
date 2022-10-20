@@ -1,0 +1,46 @@
+.userTitleContainer {
+    padding: 115px 0 0 60px;
+}
+
+.userTitle {
+    display: flex;
+
+}
+
+
+.userName {
+    margin-left: 14px;
+}
+
+.userName h1 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 19px;
+    color: #FFFFFF;
+}
+
+.userName h3 {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 19px;
+    color: #FFFFFF;
+}
+
+.titleDesriptionContainer {
+    max-width: 470px;
+    max-height: 70px;
+}
+
+.descriptionUserTitle {
+    padding-top: 20px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 35px;
+    color: #FFFFFF;
+}

@@ -16,11 +16,6 @@
 
 }
 
-.descriptionTitleContainer {
-    height: 180px;
-    background-color: white;
-}
-
 .btnTravel {
     width: 60px;
     height: 25px;
@@ -34,8 +29,6 @@
     padding: 20px 20px 0 0;
     box-sizing: border-box;
 }
-
-
 
 .btnTravel h1 {
     color: white;
@@ -53,53 +46,3 @@
     cursor: pointer;
     background: rgba(0, 0, 0, 0.5);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-=============================================================================>
-/* @media screen and (max-width: 940px) {
-
-    .bodyInfoContainer {
-        width: 700px;
-    }
-
-    .adventageImgContainer {
-        height: 280px;
-    }
-}
-
-@media screen and (max-width: 760px) {
-
-    .bodyInfoContainer {
-        width: 500px;
-    }
-
-    .adventageImgContainer {
-        height: 240px;
-    }
-}
-
-@media screen and (max-width: 460px) {
-
-    .bodyInfoContainer {
-        width: 380px;
-    }
-
-    .adventageImgContainer {
-        height: 240px;
-    }
-} */
